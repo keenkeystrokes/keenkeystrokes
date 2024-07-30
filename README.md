@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**keenkeystrokes/keenkeystrokes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vijay Garg.
 
-Here are some ideas to get you started:
+Here are a few details about me:
+- Currently Vice President at Goldman Sachs, India.
+- Programmer with a good grip on Data Structures and Algorithms
+- Good at Java stack development, trying to learn new technologies
+- Email: vijay24garg@gmail.com
+- Skills:
+  - Languages: Java, Python, HTML/CSS/Bootstrap, MySQL, JavaScript
+  - FrameWorks and Databases: Apache Spark, Apache Kafka
+  - Tools: VIM, GIT, VSCode, Ubuntu, Sublime
+  - Course Work: Data Structure and Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write here [Visit my website](https://codewithvijay.in/)
+
+You can find more about me on my Linkedin: [Vijay Garg](www.linkedin.com/in/vijgarg)
