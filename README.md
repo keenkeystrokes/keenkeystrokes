@@ -8,11 +8,10 @@ Here are a few details about me:
 - Good at Java stack development, trying to learn new technologies
 - Email: vijay24garg@gmail.com
 - Skills:
-  - Languages: Java, Python, HTML/CSS/Bootstrap, MySQL, JavaScript
+  - Languages: Java, Python, JavaScript, Typescript
   - FrameWorks and Databases: Apache Spark, Apache Kafka
-  - Tools: VIM, GIT, VSCode, Ubuntu, Sublime
-  - Course Work: Data Structure and Algorithms, OOP, DBMS, Operating Systems, Computer Networks
-
+  - Applied Mathematics, Stats, Probability and Risk 
+    
 I write here [Visit my website](https://codewithvijay.in/)
 
 You can find more about me on my Linkedin: [Vijay Garg](https://www.linkedin.com/in/vijgarg/)
