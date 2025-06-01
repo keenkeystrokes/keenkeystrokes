@@ -15,3 +15,5 @@ Here are a few details about me:
 I write here [Visit my website](https://codewithvijay.in/)
 
 You can find more about me on my Linkedin: [Vijay Garg](https://www.linkedin.com/in/vijgarg/)
+
+Most of the thoughts and posts are reiterations of NN Taleb's books, articles and thoughts.
