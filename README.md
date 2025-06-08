@@ -10,7 +10,8 @@ Here are a few details about me:
 - Skills:
   - Languages: Java, Python, JavaScript, Typescript
   - FrameWorks and Databases: Apache Spark, Apache Kafka
-  - Applied Mathematics, Stats, Probability and Risk 
+  - Applied Mathematics, Stats, Probability and Risk
+  - AI, Vector databases, LLMs
     
 I write here [Visit my website](https://codewithvijay.in/)
 
